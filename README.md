@@ -1,0 +1,1 @@
+# Translucent-Sky-Discord-theme
