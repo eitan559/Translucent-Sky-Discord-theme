@@ -1,6 +1,6 @@
 :root {
   /* APP ELEMENTS */
-  --app-bg: url(https://cdn.discordapp.com/attachments/1446511838970904717/1510978579540869220/wallpapertheme.jpg?ex=6a1ec7f5&is=6a1d7675&hm=50ed7ca6e372f1b529334171222e4e07dedfc58dbe8f64b890e41bbba8fd0610);
+  --app-bg: url(https://ibb.co/bRz6kHHT);
   --app-blur: 6px;
   --app-margin: 24px;
   --app-radius: 10px;
@@ -10,9 +10,9 @@
   --main-content-color: rgba(var(--main-rgb), var(--main-content-opacity));
   --sidebar-color: rgba(var(--main-rgb), var(--sidebar-opacity));
   /* ACCENT HSL AND TEXT COLOR SETTINGS */
-  --accent-hue: 156;
+  --accent-hue: 270;
   --accent-saturation: 77.5%;
-  --accent-lightness: 47.1%;
+  --accent-lightness: 62%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
   --accent-opacity: 1;
   --accent-text-color: hsl(0,0%,0%);
